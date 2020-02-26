@@ -1,0 +1,35 @@
+li{
+    columns: #2dd52d;
+    background-color: teal;
+}
+ul{
+    color: #410441;
+    background-color: #1477c9;
+}
+.main-div_list{
+    display: inline-block;
+}
+.main-div_nav{
+    display:inline-block;
+    text-align: right;
+    width: calc(100%-40px);
+}
+.main-div_lists{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}div{
+    display:inline-block;
+}
+.main-div a{
+    color: #da0819;
+    text-decoration: none;
+    font-display: bold solid white;
+    background-color: black;
+}  
+ 
+.main{
+      padding:10px;
+      margin:3px;
+      background-color: indigo;
+}

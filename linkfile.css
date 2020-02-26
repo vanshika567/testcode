@@ -1,0 +1,10 @@
+p
+{   font:20px georgia;
+    border-width: 20px 20px 20px 20px;
+    border-radius: 100px;
+    border-color: khaki;
+    border-style: double; 
+    word-wrap: wrap break-word;
+    box-shadow:gray;
+    /**word-break: unset;**/
+}
